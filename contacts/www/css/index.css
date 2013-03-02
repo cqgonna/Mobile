@@ -1,0 +1,16 @@
+body{
+	text-align:center;
+	margin-left:auto; 
+	margin-right:auto;
+	font: normal 14px Verdana, Arial, Helvetica, sans-serif;
+}
+
+.title{
+	color: #2489ce;
+}
+
+.footer{
+	color: #666666;
+	margin: 10px 0px 10px 0px;
+	font-size: 8px;
+}
